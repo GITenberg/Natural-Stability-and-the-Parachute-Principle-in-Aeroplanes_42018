@@ -1,0 +1,26 @@
+_repo: Natural-Stability-and-the-Parachute-Principle-in-Aeroplanes_42018
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42018-h/images/cover.jpg
+creator:
+  author:
+    agent_name: LeMaitre, W.
+    gutenberg_agent_id: '41477'
+    url: http://www.gutenberg.org/2009/agents/41477
+description: ''
+gutenberg_issued: '2013-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42018'
+  lccn: w12000096
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TL'
+- !lcsh 'Airplanes'
+- !lcsh 'Aeronautics'
+title: Natural Stability and the Parachute Principle in Aeroplanes
+url: http://www.gutenberg.org/ebooks/42018
